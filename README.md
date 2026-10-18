@@ -18,7 +18,10 @@ aucune solution de challenge, aucun spoiler.
 **Web**
 - SQL injection — [EN](en/web/sql-injection.md) · [FR](fr/web/sql-injection.md)
 
-More coming / À venir : LFI, JWT, ARP spoofing / MITM…
+**Network**
+- ARP spoofing / MITM — [EN](en/network/arp-spoofing.md) · [FR](fr/network/arp-spoofing.md)
+
+More coming / À venir : LFI, JWT…
 
 ---
 
