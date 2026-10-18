@@ -18,11 +18,12 @@ aucune solution de challenge, aucun spoiler.
 **Web**
 - SQL injection — [EN](en/web/sql-injection.md) · [FR](fr/web/sql-injection.md)
 - LFI & path traversal — [EN](en/web/lfi-path-traversal.md) · [FR](fr/web/lfi-path-traversal.md)
+- JWT attacks — [EN](en/web/jwt-attacks.md) · [FR](fr/web/jwt-attacks.md)
 
 **Network**
 - ARP spoofing / MITM — [EN](en/network/arp-spoofing.md) · [FR](fr/network/arp-spoofing.md)
 
-More coming / À venir : LFI, JWT…
+More coming / À venir…
 
 ---
 
