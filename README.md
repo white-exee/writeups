@@ -23,6 +23,8 @@ aucune solution de challenge, aucun spoiler.
 
 **Network**
 - ARP spoofing / MITM — [EN](en/network/arp-spoofing.md) · [FR](fr/network/arp-spoofing.md)
+- DNS enumeration & zone transfer — [EN](en/network/dns-enumeration.md) · [FR](fr/network/dns-enumeration.md)
+- SNMP enumeration — [EN](en/network/snmp-enumeration.md) · [FR](fr/network/snmp-enumeration.md)
 
 More coming / À venir…
 
