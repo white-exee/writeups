@@ -17,6 +17,8 @@ aucune solution de challenge, aucun spoiler.
 
 **Web**
 - SQL injection — [EN](en/web/sql-injection.md) · [FR](fr/web/sql-injection.md)
+- Command injection — [EN](en/web/command-injection.md) · [FR](fr/web/command-injection.md)
+- Cross-site scripting (XSS) — [EN](en/web/xss.md) · [FR](fr/web/xss.md)
 - LFI & path traversal — [EN](en/web/lfi-path-traversal.md) · [FR](fr/web/lfi-path-traversal.md)
 - JWT attacks — [EN](en/web/jwt-attacks.md) · [FR](fr/web/jwt-attacks.md)
 - File upload bypass — [EN](en/web/file-upload-bypass.md) · [FR](fr/web/file-upload-bypass.md)
