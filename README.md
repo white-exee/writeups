@@ -24,9 +24,11 @@ aucune solution de challenge, aucun spoiler.
 - File upload bypass — [EN](en/web/file-upload-bypass.md) · [FR](fr/web/file-upload-bypass.md)
 
 **Network**
+- Port scanning & service enumeration — [EN](en/network/port-scanning.md) · [FR](fr/network/port-scanning.md)
 - ARP spoofing / MITM — [EN](en/network/arp-spoofing.md) · [FR](fr/network/arp-spoofing.md)
 - DNS enumeration & zone transfer — [EN](en/network/dns-enumeration.md) · [FR](fr/network/dns-enumeration.md)
 - SNMP enumeration — [EN](en/network/snmp-enumeration.md) · [FR](fr/network/snmp-enumeration.md)
+- Pivoting & tunneling — [EN](en/network/pivoting-tunneling.md) · [FR](fr/network/pivoting-tunneling.md)
 
 More coming / À venir…
 
