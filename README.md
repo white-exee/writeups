@@ -30,6 +30,9 @@ aucune solution de challenge, aucun spoiler.
 - SNMP enumeration — [EN](en/network/snmp-enumeration.md) · [FR](fr/network/snmp-enumeration.md)
 - Pivoting & tunneling — [EN](en/network/pivoting-tunneling.md) · [FR](fr/network/pivoting-tunneling.md)
 
+**Radio / RF**
+- RF signal analysis & replay (SDR) — [EN](en/radio/rf-replay-sdr.md) · [FR](fr/radio/rf-replay-sdr.md)
+
 More coming / À venir…
 
 ---
